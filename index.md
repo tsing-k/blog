@@ -1,4 +1,4 @@
-## Tsing-k's Blog
+## Tsing-k's博客
 
 - [技术](./tech/tech.md)
 - [生活](./life/life.md)
